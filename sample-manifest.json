@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8b479911-599d-4245-8e33-fc0e4e133b91",
+  "export_job_id": "7ffe3bdc-8fd5-44a5-8d8a-7065750bd3ab",
   "id_short": 662431,
-  "published_at": "2026-04-29T07:08:50Z",
+  "published_at": "2026-05-07T07:17:08Z",
   "repo_name": "all-restaurants-in-pawtucket-rhode-island-us-sample-662431",
   "sample_asset_name": "beamstation_662431_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/662431/beamstation_662431_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_records": 19,
-  "sample_sha256": "de52bedb48d1cc118ce07f97de2051eec898031e9536a18091f19e04a541bf68",
-  "sample_size_bytes": 73251,
-  "total_records": 190
+  "sample_sha256": "95b6dbb4eeae912dc79d4cf926c3310b74e89d6be94bee93ae5244477815e0f1",
+  "sample_size_bytes": 78936,
+  "total_records": 195
 }
