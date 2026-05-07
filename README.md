@@ -9,9 +9,9 @@
 | Dataset ID | `662431` |
 | Location | Pawtucket |
 | Category | Restaurants |
-| Full dataset size | 190 records |
-| Free sample size | 19 records (10.0%) |
-| Last export | 2026-04-28T19:19:44.740294+00:00 |
+| Full dataset size | 195 records |
+| Free sample size | 19 records (9.74%) |
+| Last export | 2026-05-07T06:48:40.511440+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pawtucket-rhode-island-us-sample-662431/releases/download/sample-latest/beamstation_662431_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
